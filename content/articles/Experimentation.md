@@ -21,7 +21,7 @@ Je les ai analysés en me basant sur les critères suivants :
 - Points forts et faibles du site
 - Points fortts et faibles des pages de réseaux sociaux 
 
-L'analyse m'a permi de comprendre quels sont les éléments à mettre en avant pour mes futurs produits, les tendances du moment ainsi que les erreurs à ne pas reproduire.
+L'analyse m'a permise de comprendre quels sont les éléments à mettre en avant pour mes futurs produits, les tendances du moment ainsi que les erreurs à ne pas reproduire.
 
 
 

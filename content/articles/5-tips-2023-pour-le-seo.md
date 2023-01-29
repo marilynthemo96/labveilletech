@@ -1,7 +1,7 @@
 +++
 author = "Marilyn Themo"
 title = "5 tips pour le SEO en 2023"
-date = "2023-01-01"
+date = "2023-01-06"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "entrepreneuriat",
