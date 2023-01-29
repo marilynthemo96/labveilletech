@@ -48,12 +48,12 @@ Dans le cadre du cours j'ai pu dresser une liste de différents émetteurs et re
 
 et pour les canaux digitaux  :
 
--YouTube
--Instragram
--LinkedIn
--Google
--Workshop
--Twitter 
+- YouTube
+- Instragram
+- LinkedIn
+- Google
+- Workshop
+- Twitter 
 
 
 La première action a consisté a **m'abonner** aux comptes de mes émetteurs sur les réseaux sociaux afin que mon flux d'actualité soit alimenté de leurs contenus. Deuxièmement je me suis abonnée aux **newsletters** pour recevoir leurs conseils par mail. Troisièmement j'ai créé un compte sur Feedly pour pouvoir être à jour sur la création ou modification d'articles via les **flux RSS**.
