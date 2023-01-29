@@ -24,6 +24,7 @@ L'entrepreneuriat en lui-même principalement associé au processus d'idéation 
 - Lean startup
 - innovation
 - Coaching entrepreneurial
+- Mindset entrepreneurial
 
 # Sous-domaines
 Les sous-domaines qu'un entrepreneur devrait maîtriser sommairement :
@@ -56,6 +57,7 @@ et pour les canaux digitaux  :
 
 
 La première action a consisté a **m'abonner** aux comptes de mes émetteurs sur les réseaux sociaux afin que mon flux d'actualité soit alimenté de leurs contenus. Deuxièmement je me suis abonnée aux **newsletters** pour recevoir leurs conseils par mail. Troisièmement j'ai créé un compte sur Feedly pour pouvoir être à jour sur la création ou modification d'articles via les **flux RSS**.
+Quatrièmement, consigner les conseils pertinents découverts dans un **dossier de "conseils"** sur mon ordinateur. Cela me permet de les retrouver facilement et de les consulter quand je le souhaite.
 
 
 {{< css.inline >}}

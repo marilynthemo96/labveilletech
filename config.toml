@@ -130,8 +130,3 @@ url = "a-propos/"
 name = "Blog"
 weight = 2
 url = "articles/"
-
-[[languages.en.menu.main]]
-name = "Contact"
-weight = 5
-url = "contact/"
