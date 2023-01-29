@@ -1,7 +1,7 @@
 +++
 author = "Marilyn Themo"
 title = "Tout le monde peut-il réussir dans l'entrepreneuriat ?"
-date = "2023-01-03"
+date = "2023-01-04"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "entrepreneuriat",

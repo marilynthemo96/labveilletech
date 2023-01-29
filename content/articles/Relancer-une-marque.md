@@ -1,7 +1,7 @@
 +++
 author = "Marilyn Themo"
 title = "Relancer une marque"
-date = "2023-01-02"
+date = "2023-01-03"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "entrepreneuriat",

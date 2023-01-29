@@ -1,7 +1,7 @@
 +++
 author = "Marilyn Themo"
 title = "Ce que les leaders font faux en matière d'innovation"
-date = "2023-01-01"
+date = "2023-01-05"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "entrepreneuriat",

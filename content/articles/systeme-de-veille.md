@@ -1,7 +1,7 @@
 +++
 author = "Marilyn Themo"
 title = "Mon système de veille technologique"
-date = "2023-01-01"
+date = "2023-01-02"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "entrepreneuriat",

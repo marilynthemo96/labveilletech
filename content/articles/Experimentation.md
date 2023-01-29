@@ -1,7 +1,7 @@
 +++
 author = "Marilyn Themo"
 title = "Expérimentation"
-date = "2023-01-05"
+date = "2023-01-01"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "entrepreneuriat",
