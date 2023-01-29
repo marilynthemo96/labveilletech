@@ -1,16 +1,13 @@
 +++
 author = "Marilyn Themo"
 title = "Ce que les leaders font faux en matière d'innovation"
-date = "2023"
+date = "2023-01-01"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
-    "markdown",
-    "text",
+    "entrepreneuriat",
+    "innovation",
 ]
 +++
-
-
-
 
 # Pourquoi cet article ?
 J'ai choisi cet article car il challenge bien des idées reçues sur l'innovation. Il est très intéressant de voir comment les leaders peuvent se tromper dans leur approche de l'innovation.
@@ -24,7 +21,7 @@ C'est une erreur car l'innovation est avant tout un processus itératif qui néc
 
 ## Deuxième erreur dans l'approche de l'innovation
 
-***Se concentrer uniquement soit sur l'innovation soit sur le management de business existants.***
+***"Choisir de se concentrer uniquement soit sur l'innovation soit sur le management de business existants."***
 
 L'innovation est un processus très important pour les entreprises mais il ne faut pas oublier que le management de business existants est tout aussi important. Il faut donc trouver un équilibre entre les deux. En effet délaisser l'innovation aurait pour conséquence de ne pas être à la pointe de la technologie et de perdre des parts de marché. De même délaisser le management de business existants aurait pour conséquence de ne pas être en mesure de répondre aux besoins des clients et donc également de perdre des parts de marché.
 
