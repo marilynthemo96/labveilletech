@@ -1,25 +1,17 @@
 +++
-title = "About"
+title = "À propos"
 description = "Hugo, the world's fastest framework for building websites"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Marilyn Themo"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+J’adore le sentiment que cela procure de développer un projet de À à Z et d’avancer brique par brique. C’est d’ailleurs la raison qui m’a poussée à entamer un Bachelor en Ingénierie des Médias afin
+d’acquérir la boîte à outils complète de l’entrepreneur digital.
 
-Hugo makes use of a variety of open source projects including:
+Selon moi, l’entrepreneuriat est un chemin qui nous pousse à nous dépasser, à innover et à nous réinventer continuellement. En parallèle, j’ai également toujours nourri un intérêt pour le
+développement durable. Le but est de pouvoir concilier ces deux choses qui me sont importantes.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Mon objectif est de pouvoir travailler à l’issu de ma formation dans des structures où je pourrai pratiquer l’entrepreneuriat ou le coaching entrepreneurial. Ainsi je pourrai être sur le terrain avec des experts et bénéficier de leur précieuse expertise ce qui me permettrait par la suite de développer mes propres business
+digitaux responsables.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
